@@ -354,6 +354,12 @@ The program checks whether TOP = MAX − 1 before insertion. If the condition is
 
 
 
+
+
+
+
+
+
 Q2. Implement a Circular Queue using an array
 
 A queue is a linear data structure that follows the FIFO (First In, First Out) principle. 
